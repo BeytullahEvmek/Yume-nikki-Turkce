@@ -15,6 +15,7 @@ Bu 3 resim oyunun içine gömülü ve çevrilemiyor,yinede buraya türkçe versi
 # Hak Sahipleri
 
 kikiyama tarafından yapılmıştır:https://store.steampowered.com/app/650700/Yume_Nikki/
+
 Devam oyunu:https://store.steampowered.com/app/774811/YUMENIKKI_DREAM_DIARY/
 
 Oyunlar orijinal yapımcılarına aittir
