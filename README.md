@@ -7,6 +7,7 @@ YAMAYI İNDİRME
 
 
 zip dosyasının içindeki her şeyi oyunun içine atın!
+
 Steamde:Steam\steamapps\common\Yume Nikki\yumenikki de ana dosyaları bulunur.
 
 # Neden %90
