@@ -1,8 +1,13 @@
 # Yume-nikki-Turkce
 Türkçe Yume nikki....enazından %90'ı
 # Nasıl yüklenir
-zip dosyasının içindeki her şeyi oyunun içine atın
-Steamde Steam\steamapps\common\Yume Nikki\yumenikki de
+YAMAYI İNDİRME
+![Screenshot 2023-05-25 001608](https://github.com/BeytullahEvmek/Yume-nikki-Turkce/assets/130393344/c7dce2ee-5595-408a-8e2b-affc9cf12b01)
+![Screenshot 2023-05-25 001816](https://github.com/BeytullahEvmek/Yume-nikki-Turkce/assets/130393344/09939bf1-27b7-44ce-9fc8-caa3fe92b502)
+
+
+zip dosyasının içindeki her şeyi oyunun içine atın!
+Steamde:Steam\steamapps\common\Yume Nikki\yumenikki de ana dosyaları bulunur.
 
 # Neden %90
 
