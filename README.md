@@ -1,5 +1,7 @@
 # Yume-nikki-Turkce
 Türkçe Yume nikki....enazından %90'ı
+![indir](https://github.com/BeytullahEvmek/Yume-nikki-Turkce/assets/130393344/0f950219-1398-434e-91fb-82030a6f3c60)
+
 # Nasıl yüklenir
 YAMAYI İNDİRME
 ![Screenshot 2023-05-25 001608](https://github.com/BeytullahEvmek/Yume-nikki-Turkce/assets/130393344/c7dce2ee-5595-408a-8e2b-affc9cf12b01)
